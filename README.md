@@ -20,7 +20,7 @@ I'm a versatile Web Developer that prefers a creative problem-solving approach. 
 <h5 align="center">my projects:</h5>
 
 <a href="https://narutoflix.netlify.com">NarutoFlix <br>
-<a href="https://kianvilleno.github.io/neuralNetworkFlappyBird*">Neural Network Flappy Bird <br>
+<a href="https://kianvilleno.github.io/neuralNetworkFlappyBird">Neural Network Flappy Bird <br>
 <a href="https://kianvilleno.github.io/minimaxTictactoe">Minimax Tictactoe <br>
 <a href="https://kianvilleno.github.io/theGameOfLife">The Game of Life<br>
 <a href="https://kianvilleno.github.io/flockingSimulation">Flocking Simulation <br>
