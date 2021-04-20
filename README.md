@@ -27,7 +27,7 @@ I'm a versatile Web Developer that prefers a creative problem-solving approach. 
 <a href="https://kianvilleno.github.io/mazeGenerator">Maze Generator <br>
 <a href="https://kianvilleno.github.io/raycast">Raycasting <br>
 <a href="https://kianvilleno.github.io/minesweeper">Minesweeper <br>
-<a href="https://kianvilleno.github.io/snakeGame<br>">Snake Game <br>
+<a href="https://kianvilleno.github.io/snakeGame">Snake Game <br>
 <a href="https://kianvilleno.github.io/sneakers">React Project Sneaker
 
 
